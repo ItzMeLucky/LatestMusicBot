@@ -54,10 +54,10 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 
 ## Deploy to Heroku
 
-[<img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>](https://heroku.com/deploy?template=https://github.com/ItzMeLucky/NewMusicBot)
+[<img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>](https://heroku.com/deploy?template=https://github.com/ItzMeLucky/OldMusicBot)
 
 ## Deploy to Railway
-<p><a href=https://github.com/ItzMeLucky/NewMusicBot> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
+<p><a href=https://github.com/ItzMeLucky/OldMusicBot> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-blueviolet?style=for-the-badge&logo=railway" width="200""/></a></p>
 
  
 ## Deploy to VPS
